@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="ISO-8859-15"?>
+<Employees>
+  <Employee>
+    <PersonalInfo>
+		<Name>Alex</Name>
+		<Address>Down Street</Address>
+		<PhNo>9834565899</PhNo>
+	</PersonalInfo>
+	<OfficeInfo>
+	   <Designation>Clerk</Designation>
+	   <Salary>20000</Salary>
+	</OfficeInfo>
+  </Employee>
+
+  <Employee>
+	<PersonalInfo>
+	  <Name>Jonas</Name>
+	  <Address>Down Street2</Address>
+	  <PhNo>98764565899</PhNo>
+	</PersonalInfo>
+	<OfficeInfo>
+	  <Designation>Manager</Designation>
+      <Salary>50000</Salary>
+    </OfficeInfo>
+  </Employee>
+</Employees>
